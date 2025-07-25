@@ -105,7 +105,7 @@ storage-management-solution/
 **Md Sharique Raza** — CSE Undergrad | Frontend Enthusiast 💙
 
 - 🐙 GitHub: [@Sharique](https://github.com/Shhharique)
-- 💼 LinkedIn: [Md Sharique Raza](www.linkedin.com/in/shhharique)
+- 💼 LinkedIn: [Md Sharique Raza](https://www.linkedin.com/in/shhharique)
 
 > If you found this project interesting, feel free to ⭐ star the repo and connect with me!
 ---
