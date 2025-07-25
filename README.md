@@ -102,10 +102,10 @@ storage-management-solution/
 ```
 ## 👩‍💻 About Me
 
-**Tejaswini Mohapatra** — CSE Undergrad | Frontend Enthusiast 💙
+**Md Sharique Raza** — CSE Undergrad | Frontend Enthusiast 💙
 
-- 🐙 GitHub: [@Tejaswini-M15](https://github.com/Tejaswini-M15)
-- 💼 LinkedIn: [Tejaswini Mohapatra](https://www.linkedin.com/in/tejaswinim15)
+- 🐙 GitHub: [@Sharique](https://github.com/Shhharique)
+- 💼 LinkedIn: [Md Sharique Raza](www.linkedin.com/in/shhharique)
 
 > If you found this project interesting, feel free to ⭐ star the repo and connect with me!
 ---
